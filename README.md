@@ -1,4 +1,4 @@
-# QuizApp FlutterFlow
+# FlutterFlow Quiz Creation App
 
 [![Maintanence](https://img.shields.io/badge/Maintenance-yes-blue.svg)]()
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
@@ -24,7 +24,9 @@ https://user-images.githubusercontent.com/129328468/235618047-4f351c0d-a73e-4239
 ## How to run the app
 - **Clone the project.**
 ```shell
-git clone https://github.com/ruslan-volkhov-ew/quizApp-FlutterFlow.git
+git clone https://github.com/extrawest/flutterflow_quiz_creation_app.git
+
+
 ```
 - **Open the project.**
 ```shell
