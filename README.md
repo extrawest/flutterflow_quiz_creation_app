@@ -15,7 +15,7 @@
 - The app is built using the FlutterFlow
 
 ## Demo
-[QuizApp FlutterFlow](https://quizapp-69a6b.web.app)
+[QuizApp FlutterFlow](https://tangerine-genie-772d57.netlify.app)
 
 
 https://user-images.githubusercontent.com/129328468/235618047-4f351c0d-a73e-4239-ab65-9c38ac127fc2.mp4
